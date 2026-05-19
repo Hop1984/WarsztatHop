@@ -1,28 +1,34 @@
 {
   "app_name": "WarsztatHop",
+
   "version": "2.2.1",
+
   "build": "2026.05.20",
+
   "channel": "stable",
+
   "changelog": [
-  
-      "SYSTEMOWE",
-      "Dodano system changelog",
-      "Naprawiono updater EXE",
-      "Poprawiono obsługę AppData",
-      "Dodano automatyczne version.json",
-      "Dodano możliwość sktualizacji z poziomu programu",
-      "",
-  
-      "UŻYTKOWE",
-      "Poprawiono błędne wyświatlanie kwot w rozliczeniach",
-      "Naprawnio błędne wyświetlanie kwot w zleceniach historycznych",
-      "Naprawiono brak kwot w podsumowaniu zlecenia historycznego",
-      "Zmieniono layout hist_edit (button przenieś do edycji jest teraz w tym samym miejscu co odblokuj zlecenie)",
-      "Select zmiany statusu zlecenia w ekt_edit jest teraz przy buttonach globalnych",
-      "Dodano możliwość usunięcia serwisanta - jeśli został przypisany np przy części",
-      "Dodano ostatni przebieg do historii pojazdu",
-      "Dodano możliwość edycji błędnie wpisanego przebiegu w tabeli pojazdów"
-  
+
+    "SYSTEMOWE",
+    "Dodano system changelog",
+    "Naprawiono updater EXE",
+    "Poprawiono obsługę AppData",
+    "Dodano automatyczne version.json",
+    "Dodano możliwość aktualizacji z poziomu programu",
+
+    "",
+
+    "UŻYTKOWE",
+    "Poprawiono błędne wyświetlanie kwot w rozliczeniach",
+    "Naprawiono błędne wyświetlanie kwot w zleceniach historycznych",
+    "Naprawiono brak kwot w podsumowaniu zlecenia historycznego",
+    "Zmieniono layout hist_edit (button przenieś do edycji jest teraz w tym samym miejscu co odblokuj zlecenie)",
+    "Select zmiany statusu zlecenia w akt_edit jest teraz przy buttonach globalnych",
+    "Dodano możliwość usunięcia serwisanta - jeśli został przypisany np przy części",
+    "Dodano ostatni przebieg do historii pojazdu",
+    "Dodano możliwość edycji błędnie wpisanego przebiegu w tabeli pojazdów"
+
   ],
+
   "url": "https://github.com/Hop1984/WarsztatHop/releases/download/v2.2.1/update.zip"
 }
