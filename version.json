@@ -1,29 +1,31 @@
 {
   "app_name": "WarsztatHop",
 
-  "version": "2.2.2",
+  "version": "2.2.3",
 
-  "build": "2026.05.27",
+  "build": "2026.10.05",
 
   "channel": "stable",
 
   "changelog": [
 
     "SYSTEMOWE",
-    "Poprawiono system changelog",
-    "Naprawiono updater EXE",
-    "Poprawiono obsługę AppData",
-    "Dodano możliwość aktualizacji z poziomu programu",
+    "Poprawiono integrację bazy danych",
+    "Zmieniono i zmodyfikowano logike programu",
+    "Poprawiono obsługę skryptów",
+    "Zmodyfikowano updater",
+    "Wykonano migrację bazy danych",
 
     "",
 
     "UŻYTKOWE",
-    "Dodano kopiowanie Vin w aktywnych i historycznych zleceniach",
-    "Dodano link do szczegółów pojazdu w aktywnych i historycznych zleceniach",
-    "Dodano nr tel w tabeli zlecień pod nazwą klianta",
-    "Poprawiono drobne błedy"
+    "Dodano możliwość wpisania ilości zakupionych części",
+    "Przebudowano zlecenia aktualne i historyczne do nowej logiki cen zakupowych",
+    "Przeprojektowano edycję zlecenia pod nową logikę",
+    "Poprawiono drobne błędy"
     
   ],
 
-  "url": "https://github.com/Hop1984/WarsztatHop/releases/download/v2.2.2/update.zip"
+
+  "url": "https://github.com/Hop1984/WarsztatHop/releases/download/v2.2.3/update.zip"
 }
