@@ -1,31 +1,32 @@
 {
   "app_name": "WarsztatHop",
 
-  "version": "2.2.3",
+  "version": "3.0.0",
 
-  "build": "2026.10.10",
+  "build": "2026.10.11",
 
   "channel": "stable",
 
   "changelog": [
 
     "SYSTEMOWE",
-    "Poprawiono integrację bazy danych",
-    "Zmieniono i zmodyfikowano logike programu",
-    "Poprawiono obsługę skryptów",
-    "Zmodyfikowano updater",
-    "Wykonano migrację bazy danych",
-
-    "",
-
+    "Dodano terminarz",
+    "Dokonano migracji bazy danych",
+    "Dodano bazę danych do obsługi terminarza",
+    "Wykonano powiązania między bazami",
+    "Dodano dane firmy do wydruku",
+    ""
     "UŻYTKOWE",
-    "Dodano możliwość wpisania ilości zakupionych części",
-    "Przebudowano zlecenia aktualne i historyczne do nowej logiki cen zakupowych",
-    "Przeprojektowano edycję zlecenia pod nową logikę",
+    "Zmieniono kolorystykę i ujednolicono layout",
+    "Zmieniono ikony",
+    "Poprawiono czytelność",
+    "Poprawiono czcionki",
+    "Dodano lub zmodyfikowano przejścia między danymi w zleceniach ",
     "Poprawiono drobne błędy"
+
     
   ],
 
 
-  "url": "https://github.com/Hop1984/WarsztatHop/releases/download/v2.2.3/update.zip"
+  "url": "https://github.com/Hop1984/WarsztatHop/releases/download/v3.0.0/update.zip"
 }
